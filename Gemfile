@@ -16,7 +16,7 @@ source "https://rubygems.org"
 gem 'jekyll-include-cache'
 # gem "jekyll", "~> 3.5"
 gem "github-pages", group: :jekyll_plugins
-# gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
