@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Pietro Battilana"
-  avatar           : "/assets/images/res.jpg"
+  avatar           : "/assets/images/res-square-centered.jpg"
   bio              : "Versatile software developer and Artificial Intelligence / Machine Learning specialist."
   location         : "Bologna, Italy"
   # email            :
