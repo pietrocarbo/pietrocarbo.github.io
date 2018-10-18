@@ -111,14 +111,14 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:battilanap@gmail.com
     - label: "Skype"
-      icon: "fab fa-fw fa-skype"
+      icon: "fab fa-skype"
       url: mailto:battilanapietro@outlook.com
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pietro-battilana"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pietrocarbo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pietro-battilana"
 
 # Site Footer
 footer:

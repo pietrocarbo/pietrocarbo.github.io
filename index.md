@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-classes: wide
+# classes: wide
 # header:
 #   overlay_color: "#5e616c"
 # #   overlay_image: /assets/images/mm-home-page-feature.jpg
@@ -11,4 +11,9 @@ classes: wide
 #   caption:
 # excerpt: 'Versatile software developer and Artificial Intelligence & Machine Learning specialist'
 ---
-Check out my CV and contact me via email
+Check out my:
+* Curriculum Vitae [here](http://127.0.0.1:4000/assets/pdf/cv.pdf)
+* Projects on [Github](https://github.com/pietrocarbo)
+* Experiences on [LinkedIn](https://www.linkedin.com/in/pietro-battilana)
+
+If you are interested **contact me** via email.
