@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "Pietro Battilana"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Pietro Battilana"
-description              : "A portfolio website describing myself."
+description              : "Portfolio website of Pietro Battilana, versatile software developer and Artificial Intelligence / Machine Learning specialist."
 url                      : "https://pietrobattilana.ml" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "pietrocarbo/pietrocarbo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+teaser                   : #"/assets/images/res.jpg" # path of fallback teaser image
+breadcrumbs              : false # true, false (default)
 # words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -101,30 +101,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Pietro Battilana"
+  avatar           : "/assets/images/res.jpg"
+  bio              : "Versatile software developer and Artificial Intelligence / Machine Learning specialist."
+  location         : "Bologna, Italy"
+  # email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: mailto:battilanap@gmail.com
+    - label: "Skype"
+      icon: "fab fa-fw fa-skype"
+      url: mailto:battilanapietro@outlook.com
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pietro-battilana"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/pietrocarbo"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/pietrocarbo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/pietrocarbo"
 
 # Site Footer
 footer:
