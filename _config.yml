@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Pietro Battilana"
 title_separator          : "|"
 name                     : "Pietro Battilana"
-description              : "Portfolio website of Pietro Battilana, versatile software developer and Artificial Intelligence / Machine Learning specialist."
+description              : "Portfolio website of Pietro Battilana, Fullstack software developer and Artificial Intelligence / Machine Learning specialist."
 url                      : "https://pietrobattilana.ml" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "pietrocarbo/pietrocarbo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Pietro Battilana"
   avatar           : "/assets/images/res-square-centered.jpg"
-  bio              : "Versatile software developer and Artificial Intelligence / Machine Learning specialist."
+  bio              : "Fullstack software developer and Artificial Intelligence / Machine Learning specialist."
   location         : "Bologna, Italy"
   # email            :
   links:
