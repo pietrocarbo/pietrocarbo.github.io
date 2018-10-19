@@ -16,4 +16,4 @@ Check out my:
 * Projects on [Github](https://github.com/pietrocarbo)
 * Experiences on [LinkedIn](https://www.linkedin.com/in/pietro-battilana)
 
-If you are interested **contact me** via email.
+If you are interested **contact me** via [email](mailto:battilanap@gmail.com).
