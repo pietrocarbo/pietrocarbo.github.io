@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Curriculum Vitae"
-    url: "/assets/pdf/cv.pdf"
+    url: "/cv.pdf"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
