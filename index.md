@@ -12,7 +12,7 @@ permalink: /
 # excerpt: 'Versatile software developer and Artificial Intelligence & Machine Learning specialist'
 ---
 Check out my:
-* Curriculum Vitae [here](http://pietrobattilana.ml/assets/pdf/cv.pdf)
+* Curriculum Vitae [here](https://pietrobattilana.ml/cv.pdf)
 * Projects on [Github](https://github.com/pietrocarbo)
 * Experiences on [LinkedIn](https://www.linkedin.com/in/pietro-battilana)
 
